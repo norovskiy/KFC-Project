@@ -1,1 +1,3 @@
-# KFC-Project
+# Soft-Club
+
+Learn Programming with us 😊
