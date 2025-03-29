@@ -1,3 +1,3 @@
-# Soft-Club
+# Business-Club
 
-Learn Programming with us 😊
+Learn Business with us 😊
